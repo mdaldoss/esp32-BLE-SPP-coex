@@ -1,7 +1,7 @@
 # ESP32: BLE Server and Bluetooth Classic (SPP) coexistence 
 
 This is an example showing how to instantiate an ESP32 to offer at the same time a BLE Server and a Bluetooth classic SPP (Serial Port Profile).
-Marco Daldoss 2021
+Marco Daldoss 2021. This run with Arduino core.
 
  
 ## What is it 
